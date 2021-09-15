@@ -1,1 +1,3 @@
-class policy{}
+class policy{
+void fund()
+}
